@@ -15,6 +15,7 @@ function Counter(){
     const reset = ()=>{
         setCount(0);
     }
+    
 
     return(
         <div className="counter-container">
